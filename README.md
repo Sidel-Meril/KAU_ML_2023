@@ -1,4 +1,4 @@
-# ml-lau-2023
+# ml-kau-2023
 This repo contains results for test assiments from [KAU Machine Learning Course](https://github.com/fbeilstein/machine_learning) provided in Jupyter Notebook format.
 
 # Usage
