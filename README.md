@@ -19,6 +19,6 @@ In solution provided usage of different statistical tests for data analysis and 
 
 Assigment avaliable by [link](https://github.com/fbeilstein/machine_learning/blob/master/midterm_2.md)
 
-This solution includes data exploration, feature engeneering, model selection and evaluation with usage of classic machine learning methods for [Fashion MNIST Classification Problem](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+This solution includes data exploration, feature engineering, model selection and evaluation with usage of classic machine learning methods for [Fashion MNIST Classification Problem](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
 
